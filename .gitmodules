@@ -1,0 +1,3 @@
+[submodule "common/js/plugin/seedit.overlay"]
+	path = common/js/plugin/seedit.overlay
+	url = git@github.com:airyland/seedit.overlay.git
